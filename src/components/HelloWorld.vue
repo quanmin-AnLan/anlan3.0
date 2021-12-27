@@ -1,6 +1,10 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
+function defineProps<T>() {
+  throw new Error('Function not implemented.')
+}
+
 defineProps<{ msg: string }>()
 
 const count = ref(0)
