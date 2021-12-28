@@ -1,5 +1,14 @@
 {
-    "cSpell.words": [
-        "vite"
-    ]
+  "cSpell.words": [
+    "vite",
+    "vuex",
+    "vitejs",
+    "Avenir"
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }
