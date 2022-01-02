@@ -1,5 +1,5 @@
 <template>
-    <div @click="$router.push({path: '/555'})">
+    <div>
         --*开发中*--
     </div>
 </template>
